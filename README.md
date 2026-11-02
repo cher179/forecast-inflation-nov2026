@@ -8,7 +8,7 @@ horizon: Н1 до 6 недель
 date_set_by: Росстат (еженедельная сводка по средам)
 forecast_pct: 45
 ai_baseline_pct: 33
-ai_model: ⟨Claude⟩, запрос 2026-11-01
+ai_model: Claude, запрос 2026-11-01
 status: открыт
 outcome:
 Будет ли годовая инфляция на 9 ноября 2026 года ниже 7,05%?
